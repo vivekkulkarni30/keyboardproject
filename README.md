@@ -1,4 +1,4 @@
-# 🎹 Keyboard Event Display (Project 6)
+# 🎹 Keyboard Event Display (Project )
 
 This project demonstrates how to capture and display **keyboard events** using JavaScript.  
 
@@ -25,5 +25,6 @@ This project demonstrates how to capture and display **keyboard events** using J
 |-------|---------|--------|
 | A     | 65      | KeyA   |
 | Space | 32      | Space  |
+
 
 
